@@ -302,4 +302,3 @@ frozenset({1, 2, 3})
 frozenset({1, 2, 3})
 ```
 Items in a set must be **hashable**. (like keys in a dictionary).
-
