@@ -196,7 +196,7 @@ print(0 and 0 or 0) # 0 and 0 returns 0, 0 or 0 retunrs 0.
 
 A **match** statement in its most basic form is similar to an if statement. However, it compares a single value against multiple values, whereas if can test multiple expressions with any condition.
 - it was introduced in Python 3.10.
-- it's basically like a case statement in SQL
+- it's basically like a case statement in SQL, but you can't use conditions, only values (so can't say match: case > 10 for example)
 
 example:
 
